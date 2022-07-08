@@ -1,0 +1,1 @@
+This repository contains a rather simple recipe website. It will showcase the knowledge and abilities I have acquired from the HTML Foundations section of The Odin Project, which revolves mainly on an HTML construct and simple elements such as headings, em, strong, &c.
