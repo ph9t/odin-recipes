@@ -1,8 +1,33 @@
 * {
   font-family: Garamond, Georgia, sans-serif;
+  background-color: rgb(255, 235, 205);
 }
 
 img.dish {
   height: auto;
   width: 500px;
+}
+
+.content {
+  background-color: rgba(255, 255, 255, 0.5);
+  border-radius: 50px;
+  margin: 20px;
+  padding: 50px;
+}
+
+a:link {
+  color: white;
+  background-color: rgb(0, 20, 50);
+  text-decoration: none;
+}
+
+h1,
+h2,
+p,
+ul,
+ol,
+li,
+strong,
+em {
+  background-color: rgba(255, 255, 255, 0);
 }
